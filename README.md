@@ -1,38 +1,35 @@
-# create-svelte
+# redux-with-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Redux Toolkit with Svelte is fun to use. It's a great way to manage state in your Svelte app. This simple template with counter increment/decrement will help you get started and get the idea how to use Svelte with Redux Toolkit. No distraction guaranteed.
 
-## Creating a project
+## How to run?
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Clone it and run the following commands.
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+## Technical notes
 
-To create a production version of your app:
+- Using Redux Toolkit [https://redux-toolkit.js.org/]
+- Using SvelteKit [https://kit.svelte.dev/]
+- No CSS, to make no distraction while learning.
+- No imports between internal files, to make it easy to follow.
+- No other third-party libraries, to make it easy to follow.
+- All code in on `src/routes/+page.svelte` to make it easy to follow.
+- Why using Redux Toolkit? It simplifies Redux usage and makes it easier to learn. Inside Redux Toolkit the Redux package is already included, so you don't need to install it separately.
 
-```bash
-npm run build
-```
+## Goals
 
-You can preview the production build with `npm run preview`.
+- [x] Create a simple counter app.
+- [x] Make Svelte and Redux Toolkit work together.
+- [x] Easy to follow code and comments.
+- [x] No CSS, to make no distraction while learning.
+- [x] Easy to understand Redux Toolkit concepts and ready to use in your own project.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## License
+
+MIT
+
+Maintained by Sony Arianto Kurniawan <<sony@sony-ak.com>> and contributors.

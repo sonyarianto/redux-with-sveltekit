@@ -29,5 +29,8 @@
 		"vite": "^4.3.9",
 		"vitest": "^0.32.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@reduxjs/toolkit": "^1.9.5"
+	}
 }
