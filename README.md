@@ -12,6 +12,10 @@ Clone it and run the following commands.
 npm run dev
 ```
 
+## Which file should I focus?
+
+Just look into `src/routes/+page.svelte` and all code available there. I don't split to smaller files/module just because to easy to read and understand. If you enjoy it then you can split it into modules on seperate files. 
+
 ## Technical notes
 
 - Using Redux Toolkit [https://redux-toolkit.js.org/]
