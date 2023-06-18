@@ -17,9 +17,9 @@
 
 	const store = configureStore({
 		reducer: {
-			counter: counterSlice.reducer,
+			counter: counterSlice.reducer
 		},
-    middleware: []
+		middleware: []
 	});
 
 	let count = 0;
