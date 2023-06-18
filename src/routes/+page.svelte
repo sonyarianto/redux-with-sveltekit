@@ -38,6 +38,7 @@
 
 	afterUpdate(() => {
 		// afterUpdate is called after the DOM is updated, onUpdate is called before afterUpdate
+
 		count; // seems no-op, but it triggers reactivity
 	});
 </script>
