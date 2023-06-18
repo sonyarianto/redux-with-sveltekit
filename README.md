@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsonyarianto%2Fredux-with-svelte)
+
 # redux-with-svelte
 
 Redux with Svelte is fun to use. It's a great way to manage state in your Svelte app. This simple template with counter increment/decrement will help you get started and get the idea how to use Svelte with Redux Toolkit. No distraction guaranteed. Why Redux Toolkit? Relax bro, Redux Toolkit is modern recommended way to use Redux. It's official from Redux team and it's already included with Redux package.
