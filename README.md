@@ -1,6 +1,6 @@
 # redux-with-svelte
 
-Redux Toolkit with Svelte is fun to use. It's a great way to manage state in your Svelte app. This simple template with counter increment/decrement will help you get started and get the idea how to use Svelte with Redux Toolkit. No distraction guaranteed.
+Redux with Svelte is fun to use. It's a great way to manage state in your Svelte app. This simple template with counter increment/decrement will help you get started and get the idea how to use Svelte with Redux Toolkit. No distraction guaranteed. Why Redux Toolkit? Relax bro, Redux Toolkit is modern recommended way to use Redux. It's official from Redux team and it's already included with Redux package.
 
 ## How to run?
 
