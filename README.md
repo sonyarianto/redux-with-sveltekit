@@ -30,6 +30,10 @@ npm run dev
 - [x] No CSS, to make no distraction while learning.
 - [x] Easy to understand Redux Toolkit concepts and ready to use in your own project.
 
+## SvelteKit notes
+
+- When I do `npm run dev` everything OK, but during `npm run build` and `npm run preview` it Internal 500 error. Read this [https://github.com/sveltejs/kit/issues/7154#issuecomment-1276404576].
+
 ## License
 
 MIT
