@@ -38,6 +38,10 @@ Just look into `src/routes/+page.svelte` and all code available there. I don't s
 
 - When I do `npm run dev` everything OK, but during `npm run build` and `npm run preview` it Internal 500 error. Read this [https://github.com/sveltejs/kit/issues/7154#issuecomment-1276404576].
 
+## Demo
+
+https://redux-with-sveltekit.vercel.app/
+
 ## License
 
 MIT
